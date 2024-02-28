@@ -5,3 +5,4 @@ var myBook = {
     },
     name: "My Best Book"
 };
+console.log("firstName,lastName");
